@@ -33,7 +33,11 @@ Durante la realizacion de la tarea #3 del `Laboratorio de Redes de Computadoras 
 
 ## Configuracion de la Red Privada
 
-
+<div>
+    <p align ="center">
+        <img width="500" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/confredprivada.jpeg">
+    </p>
+</div>
 
 
 <div id = 'ping'/>
