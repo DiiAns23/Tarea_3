@@ -40,54 +40,52 @@ Durante la realizacion de la tarea #3 del `Laboratorio de Redes de Computadoras 
 
 ## Conexiones Ping
 
-<div>
-    <div>
-        Cliente 1:
-        ![](https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente1.jpeg)
-    </div>
-    <div>
-        Cliente 2:
-        ![](https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente2.jpeg)
-    </div>
-    <div>
-        Cliente 3:
-        No hay, no ha subido
-    </div>
-    <div>
-        Cliente 4:
-        ![](https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente4.jpeg)
-    </div>
+Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian las ip 10.8.0.2-5 hacia la maquina virtual que creo todos los usuarios que se identificaba con la ip 10.8.0.1.
 
-</div>
+| Cliente 1 | Cliente 2 |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente1.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente2.jpeg">|
+| Cliente 3 | Cliente 4 |
+|<img width="1604"  src="NO HAY"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente4.jpeg">|
+
+
 
 
 <div id = 'ipconfig'/>
 
 ## Ipconfig
-Cliente 1:
-
-Cliente 2:
-
-Cliente 3:
-
-Cliente 4:
+| Cliente 1 | Cliente 2 |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/ipconfig2.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/ipconfig3.jpeg">|
+| Cliente 3 | Cliente 4 |
+|<img width="1604"  src="link3"> |  <img width="1604"  src="link4">|
 
 <div id = 'vpn'/>
 
 ## Configuracion del Software de VPN (OpenVPN)
 
-Cliente 1:
-
-Cliente 2:
-
-Cliente 3:
-
-Cliente 4:
+| Cliente 1 | Cliente 2 |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/openvpn1.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/openvpn2.jpeg">|
+| Cliente 3 | Cliente 4 |
+|<img width="1604"  src="link3"> |  <img width="1604"  src="link4">|
 
 <div id = 'iam'/>
 
 ## Integrantes del grupo IAM
 
+<div>
+    <p align ="center">
+        <img width="500" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/IAM.jpeg">
+    </p>
+</div>
+
 <div id = 'cloud'>
 
 ## Creacion y Configuracion de Plataforma Cloud
+
+<div>
+    <p align ="center">
+        <img width="500" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/configVM.jpeg">
+    </p>
+</div>
