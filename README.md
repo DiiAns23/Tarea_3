@@ -50,8 +50,9 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente1.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/pingcliente2.jpeg">|
 | Cliente 3 | Cliente 4 |
-|<img width="1604"  src="NO HAY"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/pingcliente4.jpeg">|
-
+|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/pingcliente3.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/pingcliente4.jpeg">|
+| Cliente 5 |
+|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/pingcliente5.jpeg"> | 
 
 
 
@@ -62,7 +63,9 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/ipconfig2.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/ipconfig3.jpeg">|
 | Cliente 3 | Cliente 4 |
-|<img width="1604"  src="link3"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/ipconfig4.jpeg">|
+|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/ipconfig3.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/ipconfig4.jpeg">|
+| Cliente 5 |
+|  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/ipconfig5.jpeg">|
 
 <div id = 'vpn'/>
 
@@ -72,7 +75,10 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/openvpn1.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/openvpn2.jpeg">|
 | Cliente 3 | Cliente 4 |
-|<img width="1604"  src="link3"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/openvpn4.jpeg">|
+|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/openvpn3.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/openvpn4.jpeg">|
+| Cliente 5 |
+|  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/openvpn5.jpeg">|
+
 
 <div id = 'iam'/>
 
@@ -80,7 +86,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 
 <div>
     <p align ="center">
-        <img width="500" src="https://github.com/DiiAns23/Prueba-2/blob/Master/img/IAM.jpeg">
+        <img width="500" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Tarea3_Redes1/IAM.PNG">
     </p>
 </div>
 
