@@ -28,7 +28,7 @@ Durante la realizacion de la tarea #3 del `Laboratorio de Redes de Computadoras 
 | Diego Andrés Obín Rosales | 201903865 | 
 | Deivid Alexander Lux Revolorio | 201549059 |
 | Josué David Zea Herrera| 201807159 | 
-| Juan Diego Alvarado Salguero | 201806335 |
+| Juan Diego Alvarado Salguero | 201807335 |
 
 <div id = 'configuracion'/>
 
